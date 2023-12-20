@@ -87,7 +87,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/MrStarkTG")
+                InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/MrAboutbot")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
