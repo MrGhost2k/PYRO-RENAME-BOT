@@ -56,7 +56,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/MrStarkTG>Mr.Stark</a> 
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/MrAboutbot>Mr.Stark</a> 
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
@@ -82,7 +82,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>Dᴇᴠᴇʟᴏᴩᴇʀ</b></u>
-» Developer: <a href=https://t.me/MrStarkTG>Mr.Stark</a> """
+» Developer: <a href=https://t.me/MrAboutbot>Mr.Stark</a> """
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
