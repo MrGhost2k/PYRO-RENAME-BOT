@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "27665094"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "7ac316483449a74fba1102491fbf34b7"
         },
         "WEBHOOK": {
             "description": "if your server is need web service! value = True else value = False",
@@ -24,18 +24,20 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "6449306962:AAGGzHzdwL-F2S9tETTHsaI-WNjoAH6dvwY"
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"Add Your User ID multiple is use space to split",
+            "value": "1957293487"
         },
         "LOG_CHANNEL": {
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
+            "value": "-1001913988417",
             "required": false           
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://ab:ab@cluster0.xgqrenn.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
